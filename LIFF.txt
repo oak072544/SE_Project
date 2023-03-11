@@ -1,0 +1,7 @@
+https://medium.com/linedevth/liff-v2-release-85fdfb678cc6 (LIFF โค้ดคำสั่งที่จำเป็น)
+https://www.youtube.com/watch?v=dV17KnG-xrg&t=1736s (setup เครื่องมือที่ต้องใช้ในการทำ LIFF)
+https://bulantech.blogspot.com/2021/09/line-chat-bot-line-messaging-api.html (สร้างไลน์ chatbot)
+https://bulantech.blogspot.com/2021/10/line-front-end-framework-liff-line-chat.html (การใช้งาน)
+https://medium.com/linedevth/introduction-to-liff-7d708e2f42ec (LIFF อุดช่องโหว่ Chatbot)
+https://linedevth.line.me/th/liff (LINE Developers)
+https://www.rocket.in.th/blog/line-liff/ (คืออะไร)

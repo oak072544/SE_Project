@@ -1,0 +1,4 @@
+https://www.borntodev.com/ (borntoDEV)
+https://www.youtube.com/watch?v=xSjFiR0A70I (Line Developer webhook)
+https://tutorials.deeple.ai/faq/line-oa/webhook-redelivery-line-developers (เปิดใช้งาน Webhook)
+https://www.youtube.com/watch?v=pg4q0geSEmk (หลักการ)
